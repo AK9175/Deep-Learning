@@ -3,7 +3,7 @@ Learnt about Neural Networks (Weights , Bias , Activation Function , Forward Pro
 
 Activation Functions(Learnt about Linear , Softmax , Sigmoid , Relu ,Leaky Relu)
 
-Gradient Descent (Learnt about various optimizers like Stochastic radient Descent , Mini Batch SGD , RMSProp , Adam , Adamax , Adadelta)
+Gradient Descent (Learnt about various optimizers like Stochastic radient Descent , Mini Batch SGD , RMSProp , Adam , Adamax , Adadelta , Adagrad)
 
 Cost Functions (Learnt about MSE , Absolute MSE , RMSE , BinaryCrossEntropy)
 
