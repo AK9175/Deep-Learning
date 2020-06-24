@@ -8,3 +8,5 @@ Gradient Descent (Learnt about various optimizers like Stochastic radient Descen
 Cost Functions (Learnt about MSE , Absolute MSE , RMSE , BinaryCrossEntropy)
 
 Also learnt about reducing overfitting problems with help of techniques like Batch Normalization , Dropouts , Callbacks 
+
+Understood the mathematical intution behind important feature engineering concepts like Countvectorisation , TFIDF transformation , Word Embeddings word2vec. 
