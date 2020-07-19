@@ -9,4 +9,5 @@ Cost Functions (Learnt about MSE , Absolute MSE , RMSE , BinaryCrossEntropy)
 
 Also learnt about reducing overfitting problems with help of techniques like Batch Normalization , Dropouts , Callbacks 
 
-Understood the mathematical intution behind important feature engineering concepts like Countvectorisation , TFIDF transformation , Word Embeddings word2vec. 
+Understood the mathematical intution behind important feature engineering concepts like Countvectorisation , TFIDF transformation , word2vec also models like 
+Bag of words & word embedding. 
